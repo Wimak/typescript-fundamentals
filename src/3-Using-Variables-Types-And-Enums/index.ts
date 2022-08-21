@@ -1,7 +1,7 @@
 // string, number, boolean, array, undefined, null, any
 
 let firstName: string | null;
-firstName = 'Dan';
+firstName = 'Wiesiek';
 
 let age: number;
 age = 45;
